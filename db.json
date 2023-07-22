@@ -1,182 +1,44 @@
-[
-    {
-      "_id": "64bc071edcd64d37ceba56cb",
-      "index": 0,
-      "guid": "cdc0526c-cd36-41bb-919d-0c6598f253a7",
-      "isActive": false,
-      "balance": "$2,112.51",
-      "picture": "http://placehold.it/32x32",
-      "age": 23,
-      "eyeColor": "green",
-      "name": "Mcgee Vasquez",
-      "gender": "male",
-      "company": "RECOGNIA",
-      "email": "mcgeevasquez@recognia.com",
-      "phone": "+1 (896) 565-2760",
-      "address": "933 Farragut Place, Glenshaw, Michigan, 4324",
-      "about": "Veniam nisi elit tempor velit excepteur sunt esse fugiat exercitation nulla excepteur. Do laborum officia cillum id id irure anim id et sit magna est elit. Voluptate dolore fugiat aliqua elit ad quis tempor ad excepteur incididunt labore irure. Sint reprehenderit elit sunt eu non ipsum occaecat tempor ipsum reprehenderit Lorem et. Minim fugiat esse in veniam eiusmod consequat cupidatat cupidatat. Tempor deserunt dolor anim id aliquip non ex tempor sint dolore laborum exercitation laborum irure. Nulla Lorem ullamco incididunt amet.\r\n",
-      "registered": "2020-06-16T10:16:22 -02:00",
-      "latitude": 4.76069,
-      "longitude": -108.024871,
-      "tags": [
-        "anim",
-        "dolor",
-        "excepteur",
-        "elit",
-        "dolor",
-        "officia",
-        "ipsum"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Shelton Kidd"
-        },
-        {
-          "id": 1,
-          "name": "Christian Landry"
-        },
-        {
-          "id": 2,
-          "name": "Rosario Beach"
-        }
-      ],
-      "greeting": "Hello, Mcgee Vasquez! You have 5 unread messages.",
-      "favoriteFruit": "strawberry"
-    },
-    {
-      "_id": "64bc071ee7be07f6ea94fc05",
-      "index": 1,
-      "guid": "d51520de-f212-4d52-802a-35e44a5d3f42",
-      "isActive": true,
-      "balance": "$1,952.81",
-      "picture": "http://placehold.it/32x32",
-      "age": 21,
-      "eyeColor": "blue",
-      "name": "Luna Middleton",
-      "gender": "male",
-      "company": "TALAE",
-      "email": "lunamiddleton@talae.com",
-      "phone": "+1 (980) 416-2936",
-      "address": "567 Remsen Avenue, Terlingua, Delaware, 7652",
-      "about": "Nisi eiusmod Lorem ea ut pariatur do laborum consequat labore tempor. Exercitation adipisicing consequat exercitation Lorem velit esse aliquip amet ad labore incididunt sit veniam. Laboris commodo laboris eu cupidatat reprehenderit est ut sint officia ullamco. Lorem nostrud in commodo consequat eiusmod ipsum ad officia anim minim cupidatat eiusmod consequat. Id exercitation nostrud id officia officia consectetur do qui consequat labore esse laboris aliquip. Esse deserunt occaecat officia ea labore eu velit nisi nulla deserunt.\r\n",
-      "registered": "2017-02-23T02:53:38 -01:00",
-      "latitude": 9.108779,
-      "longitude": -30.671524,
-      "tags": [
-        "Lorem",
-        "pariatur",
-        "pariatur",
-        "qui",
-        "consectetur",
-        "magna",
-        "amet"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Decker Reese"
-        },
-        {
-          "id": 1,
-          "name": "Bridget Horn"
-        },
-        {
-          "id": 2,
-          "name": "Valenzuela Sargent"
-        }
-      ],
-      "greeting": "Hello, Luna Middleton! You have 4 unread messages.",
-      "favoriteFruit": "strawberry"
-    },
-    {
-      "_id": "64bc071e0e1265a5f9c3a1b0",
-      "index": 2,
-      "guid": "6cb469eb-2ba2-4b42-b59a-92606b79eed3",
-      "isActive": true,
-      "balance": "$3,412.20",
-      "picture": "http://placehold.it/32x32",
-      "age": 27,
-      "eyeColor": "blue",
-      "name": "Leanne Huffman",
-      "gender": "female",
-      "company": "WEBIOTIC",
-      "email": "leannehuffman@webiotic.com",
-      "phone": "+1 (967) 488-3456",
-      "address": "828 Grove Place, Whitewater, Alabama, 5599",
-      "about": "Consectetur mollit reprehenderit eiusmod elit officia. Elit officia excepteur nostrud mollit exercitation sit. Nulla commodo ea sunt aliquip cillum deserunt est Lorem deserunt. Dolore anim laboris elit exercitation incididunt elit mollit deserunt id occaecat consequat. Non ut non sint ullamco quis aute tempor nostrud. Proident ullamco esse eiusmod pariatur ex. Mollit irure id pariatur ea.\r\n",
-      "registered": "2021-05-25T09:27:17 -02:00",
-      "latitude": 77.709097,
-      "longitude": 23.057243,
-      "tags": [
-        "ex",
-        "dolore",
-        "non",
-        "minim",
-        "ea",
-        "quis",
-        "anim"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Opal Clarke"
-        },
-        {
-          "id": 1,
-          "name": "Kristie Manning"
-        },
-        {
-          "id": 2,
-          "name": "Fuller Rosa"
-        }
-      ],
-      "greeting": "Hello, Leanne Huffman! You have 10 unread messages.",
-      "favoriteFruit": "apple"
-    },
-    {
-      "_id": "64bc071ea436213049664370",
-      "index": 3,
-      "guid": "1a45a9c7-ae6d-4b98-b3a2-b4a5c1c20e89",
-      "isActive": true,
-      "balance": "$1,734.53",
-      "picture": "http://placehold.it/32x32",
-      "age": 39,
-      "eyeColor": "blue",
-      "name": "Calhoun Francis",
-      "gender": "male",
-      "company": "KOOGLE",
-      "email": "calhounfrancis@koogle.com",
-      "phone": "+1 (816) 432-2471",
-      "address": "963 Batchelder Street, Escondida, Maryland, 3025",
-      "about": "Nisi cupidatat proident anim do. Veniam enim exercitation exercitation fugiat. Amet sunt anim in dolor in voluptate irure irure ad cupidatat. Commodo culpa laboris labore fugiat nisi eu minim enim enim. Minim veniam commodo laborum amet id.\r\n",
-      "registered": "2023-05-29T12:38:32 -02:00",
-      "latitude": 35.771768,
-      "longitude": 178.784926,
-      "tags": [
-        "laborum",
-        "id",
-        "sint",
-        "est",
-        "veniam",
-        "fugiat",
-        "consequat"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Weeks Wilkinson"
-        },
-        {
-          "id": 1,
-          "name": "Whitney Pittman"
-        },
-        {
-          "id": 2,
-          "name": "May Wilkins"
-        }
-      ],
-      "greeting": "Hello, Calhoun Francis! You have 4 unread messages.",
-      "favoriteFruit": "strawberry"
-    }
-  ]
+{
+    "events": [
+      {
+        "id": 123,
+        "category": "animal welfare",
+        "title": "Cat Adoption Day",
+        "description": "Find your new feline friend at this event.",
+        "location": "Meow Town",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 456,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+      },
+      {
+        "id": 789,
+        "category": "sustainability",
+        "title": "Beach Cleanup",
+        "description": "Help pick up trash along the shore.",
+        "location": "Playa Del Carmen",
+        "date": "July 22, 2022",
+        "time": "11:00",
+        "organizer": "Carey Wales"
+      },
+      {
+        "id": 998,
+        "category": "philosophy",
+        "title": "Jacques Derrida thoughts",
+        "description": "a course about the thinker of deconstruction",
+        "location": "madison square",
+        "date": "August 22, 2023",
+        "time": "11:00",
+        "organizer": "Marc Dahan"
+      }
+    ]
+  }
