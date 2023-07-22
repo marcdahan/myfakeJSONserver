@@ -1,44 +1,152 @@
-{
-    "events": [
-      {
-        "id": 123,
-        "category": "animal welfare",
-        "title": "Cat Adoption Day",
-        "description": "Find your new feline friend at this event.",
-        "location": "Meow Town",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "organizer": "Kat Laydee"
-      },
-      {
-        "id": 456,
-        "category": "food",
-        "title": "Community Gardening",
-        "description": "Join us as we tend to the community edible plants.",
-        "location": "Flora City",
-        "date": "March 14, 2022",
-        "time": "10:00",
-        "organizer": "Fern Pollin"
-      },
-      {
-        "id": 789,
-        "category": "sustainability",
-        "title": "Beach Cleanup",
-        "description": "Help pick up trash along the shore.",
-        "location": "Playa Del Carmen",
-        "date": "July 22, 2022",
-        "time": "11:00",
-        "organizer": "Carey Wales"
-      },
-      {
-        "id": 998,
-        "category": "philosophy",
-        "title": "Jacques Derrida thoughts",
-        "description": "a course about the thinker of deconstruction",
-        "location": "madison square",
-        "date": "August 22, 2023",
-        "time": "11:00",
-        "organizer": "Marc Dahan"
-      }
-    ]
-  }
+[
+    {
+      "id": 0,
+      "category": "law",
+      "title": "consequat magna officia commodo cillum",
+      "description": "quis cillum eiusmod incididunt quis qui aute id consectetur sint do ipsum",
+      "location": "314 Myrtle Avenue, Brady, Mauritius",
+      "date": "19-08-2023",
+      "time": "17:00",
+      "organizer": "Bauer Pope"
+    },
+    {
+      "id": 10,
+      "category": "philosophy",
+      "title": "ex non in in non",
+      "description": "elit cillum sit occaecat do aliquip mollit veniam aliquip dolor aliqua nostrud",
+      "location": "539 Fleet Street, Franklin, China",
+      "date": "24-07-2023",
+      "time": "18:00",
+      "organizer": "Avila Barrera"
+    },
+    {
+      "id": 20,
+      "category": "philology",
+      "title": "quis fugiat consequat cillum aute",
+      "description": "sunt irure laboris excepteur aliqua labore officia adipisicing dolor laboris et officia",
+      "location": "688 Beacon Court, Crayne, Cuba",
+      "date": "15-08-2023",
+      "time": "11:00",
+      "organizer": "Raquel Silva"
+    },
+    {
+      "id": 30,
+      "category": "philology",
+      "title": "nostrud pariatur deserunt consequat nostrud",
+      "description": "irure exercitation nulla ut nulla laborum id proident culpa minim fugiat fugiat",
+      "location": "137 Provost Street, Gordon, Martinique",
+      "date": "08-08-2023",
+      "time": "17:00",
+      "organizer": "Luella Quinn"
+    },
+    {
+      "id": 40,
+      "category": "philology",
+      "title": "velit elit qui qui qui",
+      "description": "exercitation mollit non mollit ea cupidatat aute tempor eu enim qui laborum",
+      "location": "286 Holly Street, Coalmont, Iran",
+      "date": "04-08-2023",
+      "time": "17:00",
+      "organizer": "Gardner Wilder"
+    },
+    {
+      "id": 50,
+      "category": "law",
+      "title": "nulla est commodo fugiat est",
+      "description": "cillum qui cupidatat ullamco ad Lorem eiusmod magna Lorem amet dolore qui",
+      "location": "495 Vista Place, Wells, East Timor",
+      "date": "17-08-2023",
+      "time": "11:00",
+      "organizer": "Tonya Alexander"
+    },
+    {
+      "id": 60,
+      "category": "philosophy",
+      "title": "est sit magna commodo nisi",
+      "description": "enim non pariatur nisi pariatur irure mollit do sint nostrud quis ipsum",
+      "location": "189 Ocean Court, Malo, Morocco",
+      "date": "06-08-2023",
+      "time": "11:00",
+      "organizer": "Austin Raymond"
+    },
+    {
+      "id": 70,
+      "category": "law",
+      "title": "in sint ullamco anim ad",
+      "description": "anim mollit nulla nisi cillum proident excepteur in laboris ipsum culpa consequat",
+      "location": "365 Carlton Avenue, Veyo, Uruguay",
+      "date": "04-08-2023",
+      "time": "17:00",
+      "organizer": "Saunders Hinton"
+    },
+    {
+      "id": 80,
+      "category": "law",
+      "title": "quis ipsum ea duis nisi",
+      "description": "nisi dolor sit laboris ipsum nulla aliqua occaecat ut laboris velit esse",
+      "location": "524 Roosevelt Court, Statenville, Suriname",
+      "date": "30-07-2023",
+      "time": "18:00",
+      "organizer": "Larsen Austin"
+    },
+    {
+      "id": 90,
+      "category": "law",
+      "title": "fugiat aute minim magna ea",
+      "description": "est ullamco pariatur enim amet tempor eu veniam officia quis nisi amet",
+      "location": "446 Robert Street, Chical, Cook Islands",
+      "date": "04-08-2023",
+      "time": "18:00",
+      "organizer": "Delgado Donaldson"
+    },
+    {
+      "id": 100,
+      "category": "philology",
+      "title": "aute qui ad reprehenderit consectetur",
+      "description": "elit ex aliquip non commodo proident nostrud aliqua sint tempor reprehenderit veniam",
+      "location": "333 Bragg Court, Dunlo, Uganda",
+      "date": "01-08-2023",
+      "time": "18:00",
+      "organizer": "Gina Barron"
+    },
+    {
+      "id": 110,
+      "category": "philology",
+      "title": "deserunt dolor exercitation cillum tempor",
+      "description": "excepteur amet anim aute ex nostrud amet sint proident consectetur tempor ipsum",
+      "location": "955 Veterans Avenue, Bethany, Guyana",
+      "date": "10-08-2023",
+      "time": "11:00",
+      "organizer": "Jackie Osborn"
+    },
+    {
+      "id": 120,
+      "category": "philology",
+      "title": "enim sint ipsum irure adipisicing",
+      "description": "duis reprehenderit dolor nisi incididunt commodo consectetur consectetur ipsum reprehenderit pariatur nostrud",
+      "location": "614 Merit Court, Urie, Mauritania",
+      "date": "10-08-2023",
+      "time": "18:00",
+      "organizer": "Gonzales Wolf"
+    },
+    {
+      "id": 130,
+      "category": "philology",
+      "title": "est laboris reprehenderit sint veniam",
+      "description": "ut sunt proident ipsum non id mollit ex ipsum consectetur tempor do",
+      "location": "210 Ridgewood Place, Thornport, Pitcairn",
+      "date": "27-07-2023",
+      "time": "18:00",
+      "organizer": "Jacqueline Payne"
+    },
+    {
+      "id": 140,
+      "category": "law",
+      "title": "pariatur esse occaecat veniam aliquip",
+      "description": "adipisicing veniam eiusmod exercitation ut duis officia minim tempor sit esse ad",
+      "location": "148 Dorset Street, Johnsonburg, Saint Kitts and Nevis",
+      "date": "23-07-2023",
+      "time": "17:00",
+      "organizer": "Concepcion Foley"
+    }
+  ]
