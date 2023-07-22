@@ -1,34 +1,93 @@
-{
-    "events": [
-      {
-        "id": 123,
-        "category": "animal welfare",
-        "title": "Cat Adoption Day",
-        "description": "Find your new feline friend at this event.",
-        "location": "Meow Town",
-        "date": "January 28, 2022",
-        "time": "12:00",
-        "organizer": "Kat Laydee"
-      },
-      {
-        "id": 456,
-        "category": "food",
-        "title": "Community Gardening",
-        "description": "Join us as we tend to the community edible plants.",
-        "location": "Flora City",
-        "date": "March 14, 2022",
-        "time": "10:00",
-        "organizer": "Fern Pollin"
-      },
-      {
-        "id": 789,
-        "category": "sustainability",
-        "title": "Beach Cleanup",
-        "description": "Help pick up trash along the shore.",
-        "location": "Playa Del Carmen",
-        "date": "July 22, 2022",
-        "time": "11:00",
-        "organizer": "Carey Wales"
-      }
-    ]
-  }
+[
+    {
+      "id": 0,
+      "category": "philosophy",
+      "title": "eiusmod minim veniam enim laborum , description : veniam nostrud anim do minim cupidatat commodo ullamco nulla aute nulla ut",
+      "date": "18-08-2023 18:00",
+      "organizer": "organizer : Abby Burt, place :  836 Jamison Lane, Kansas, Kenya"
+    },
+    {
+      "id": 10,
+      "category": "law",
+      "title": "labore duis nostrud esse consectetur , description : ipsum tempor quis tempor exercitation ut ut reprehenderit exercitation non nulla officia",
+      "date": "11-08-2023 11:00",
+      "organizer": "organizer : Lolita Evans, place :  788 Bergen Place, Maury, Luxembourg"
+    },
+    {
+      "id": 20,
+      "category": "philology",
+      "title": "veniam consequat nostrud enim tempor , description : anim reprehenderit Lorem sint anim enim consectetur nisi reprehenderit exercitation eu consequat",
+      "date": "28-07-2023 17:00",
+      "organizer": "organizer : Gilbert Arnold, place :  483 Girard Street, Eastvale, Benin"
+    },
+    {
+      "id": 30,
+      "category": "philology",
+      "title": "proident minim est dolore culpa , description : quis eiusmod fugiat commodo fugiat id do non aute nostrud tempor qui",
+      "date": "05-08-2023 17:00",
+      "organizer": "organizer : Day Dawson, place :  885 Victor Road, Ladera, Greece"
+    },
+    {
+      "id": 40,
+      "category": "philosophy",
+      "title": "pariatur anim sit consequat sit , description : cillum pariatur ex est ipsum magna culpa elit qui et officia ex",
+      "date": "27-07-2023 18:00",
+      "organizer": "organizer : Caitlin Page, place :  121 Howard Avenue, Cavalero, Russian Federation"
+    },
+    {
+      "id": 50,
+      "category": "philology",
+      "title": "nulla irure ea sit deserunt , description : Lorem id est eiusmod eiusmod amet velit et ullamco enim reprehenderit nisi",
+      "date": "09-08-2023 18:00",
+      "organizer": "organizer : Holman Ortega, place :  966 Narrows Avenue, Groveville, Sierra Leone"
+    },
+    {
+      "id": 60,
+      "category": "philosophy",
+      "title": "anim esse laboris minim tempor , description : commodo eu et minim eiusmod aliquip labore exercitation voluptate in nostrud exercitation",
+      "date": "28-07-2023 17:00",
+      "organizer": "organizer : Black Cotton, place :  214 Sutter Avenue, Wilmington, El Salvador"
+    },
+    {
+      "id": 70,
+      "category": "philosophy",
+      "title": "labore tempor pariatur ut sint , description : deserunt sunt nulla fugiat est sunt esse do sunt Lorem duis irure",
+      "date": "29-07-2023 11:00",
+      "organizer": "organizer : Vance Stephenson, place :  906 Irwin Street, Spelter, East Timor"
+    },
+    {
+      "id": 80,
+      "category": "philosophy",
+      "title": "reprehenderit fugiat minim excepteur aute , description : proident ea amet nostrud culpa ipsum ullamco sint laboris ex anim sint",
+      "date": "22-07-2023 17:00",
+      "organizer": "organizer : Johns Webb, place :  639 Grove Street, Innsbrook, Cambodia"
+    },
+    {
+      "id": 90,
+      "category": "philosophy",
+      "title": "ad ipsum qui cupidatat ipsum , description : id do proident veniam pariatur aliquip proident tempor nostrud occaecat non ipsum",
+      "date": "06-08-2023 11:00",
+      "organizer": "organizer : Parks Tran, place :  925 Maple Street, Como, Taiwan"
+    },
+    {
+      "id": 100,
+      "category": "philosophy",
+      "title": "laboris proident sunt ea esse , description : elit est ad pariatur enim aliqua irure officia ea velit do deserunt",
+      "date": "20-08-2023 17:00",
+      "organizer": "organizer : Alma Mcdaniel, place :  819 Sapphire Street, Dexter, Tuvalu"
+    },
+    {
+      "id": 110,
+      "category": "philosophy",
+      "title": "Lorem dolor irure sit excepteur , description : id et dolore proident non officia elit eu labore et anim nisi",
+      "date": "29-07-2023 17:00",
+      "organizer": "organizer : Larson Peterson, place :  246 Oceanview Avenue, Abiquiu, Tajikistan"
+    },
+    {
+      "id": 120,
+      "category": "law",
+      "title": "veniam sint laboris non aliqua , description : nulla deserunt dolore culpa excepteur velit nulla esse aliquip cupidatat aliqua pariatur",
+      "date": "27-07-2023 17:00",
+      "organizer": "organizer : Tricia Brewer, place :  303 Lafayette Walk, Moraida, Honduras"
+    }
+  ]
