@@ -2,99 +2,29 @@
     {
       "id": 0,
       "category": "law",
-      "title": "aliqua consequat enim elit pariatur",
-      "date": "05-08-2023",
-      "organizer": " Crosby Howe"
+      "title": "nulla enim pariatur tempor sit",
+      "date": "18-08-2023",
+      "organizer": " Hanson Ford"
     },
     {
       "id": 10,
-      "category": "law",
-      "title": "labore eiusmod est dolore dolore",
-      "date": "13-08-2023",
-      "organizer": " Adeline Carver"
+      "category": "philosophy",
+      "title": "laborum esse aliqua sit fugiat",
+      "date": "10-08-2023",
+      "organizer": " Lucinda Lawson"
     },
     {
       "id": 20,
       "category": "philosophy",
-      "title": "nisi ad incididunt ut tempor",
-      "date": "14-08-2023",
-      "organizer": " Brooks Massey"
+      "title": "nostrud consectetur do consequat consequat",
+      "date": "08-08-2023",
+      "organizer": " Morgan Maynard"
     },
     {
       "id": 30,
       "category": "law",
-      "title": "nulla commodo id consectetur anim",
-      "date": "29-07-2023",
-      "organizer": " Higgins Underwood"
-    },
-    {
-      "id": 40,
-      "category": "philology",
-      "title": "irure consequat duis eiusmod fugiat",
-      "date": "14-08-2023",
-      "organizer": " Mabel Riggs"
-    },
-    {
-      "id": 50,
-      "category": "law",
-      "title": "deserunt ut non cupidatat adipisicing",
-      "date": "17-08-2023",
-      "organizer": " Rosario Blackwell"
-    },
-    {
-      "id": 60,
-      "category": "philology",
-      "title": "laborum Lorem laborum nulla aute",
-      "date": "18-08-2023",
-      "organizer": " Gena Guzman"
-    },
-    {
-      "id": 70,
-      "category": "philology",
-      "title": "incididunt aute ea elit dolor",
-      "date": "02-08-2023",
-      "organizer": " Rodgers Tran"
-    },
-    {
-      "id": 80,
-      "category": "philosophy",
-      "title": "nostrud est sunt quis sint",
-      "date": "25-07-2023",
-      "organizer": " Trujillo Jarvis"
-    },
-    {
-      "id": 90,
-      "category": "philosophy",
-      "title": "laborum ut voluptate et sint",
-      "date": "15-08-2023",
-      "organizer": " Kirsten Peck"
-    },
-    {
-      "id": 100,
-      "category": "philology",
-      "title": "in incididunt qui cupidatat adipisicing",
-      "date": "25-07-2023",
-      "organizer": " Carver Thomas"
-    },
-    {
-      "id": 110,
-      "category": "philosophy",
-      "title": "exercitation irure cillum id cillum",
-      "date": "19-08-2023",
-      "organizer": " Duncan Mosley"
-    },
-    {
-      "id": 120,
-      "category": "law",
-      "title": "aliqua ad sint fugiat sunt",
-      "date": "07-08-2023",
-      "organizer": " Jolene Price"
-    },
-    {
-      "id": 130,
-      "category": "law",
-      "title": "elit ea id ut qui",
-      "date": "07-08-2023",
-      "organizer": " Harding Duran"
+      "title": "sunt excepteur pariatur nisi nulla",
+      "date": "04-08-2023",
+      "organizer": " Pratt Lucas"
     }
   ]
