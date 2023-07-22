@@ -178,50 +178,5 @@
       ],
       "greeting": "Hello, Calhoun Francis! You have 4 unread messages.",
       "favoriteFruit": "strawberry"
-    },
-    {
-      "_id": "64bc071ef72e4732fa50ed72",
-      "index": 4,
-      "guid": "d3e30a85-839d-4bb8-b91e-c763884a29bd",
-      "isActive": true,
-      "balance": "$3,842.61",
-      "picture": "http://placehold.it/32x32",
-      "age": 28,
-      "eyeColor": "brown",
-      "name": "Geneva Waters",
-      "gender": "female",
-      "company": "CABLAM",
-      "email": "genevawaters@cablam.com",
-      "phone": "+1 (862) 485-3406",
-      "address": "218 Brightwater Court, Savage, American Samoa, 9934",
-      "about": "Incididunt laboris ex qui anim velit ipsum reprehenderit commodo minim labore. Quis voluptate deserunt nostrud ad proident ea occaecat incididunt. Quis nisi consequat aliquip incididunt nisi laboris aliquip amet cupidatat sint nisi duis. Voluptate laborum qui aliquip eu ea veniam est non. Voluptate officia voluptate officia sint. Et aliqua incididunt elit labore culpa veniam tempor sint labore elit sunt.\r\n",
-      "registered": "2021-07-06T11:21:38 -02:00",
-      "latitude": 74.484789,
-      "longitude": 77.423255,
-      "tags": [
-        "labore",
-        "tempor",
-        "pariatur",
-        "reprehenderit",
-        "aute",
-        "pariatur",
-        "labore"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Bass Valenzuela"
-        },
-        {
-          "id": 1,
-          "name": "Strickland Miller"
-        },
-        {
-          "id": 2,
-          "name": "Rios Santiago"
-        }
-      ],
-      "greeting": "Hello, Geneva Waters! You have 8 unread messages.",
-      "favoriteFruit": "banana"
     }
   ]
