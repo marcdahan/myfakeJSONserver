@@ -1,30 +1,122 @@
 [
-    {
-      "id": 0,
-      "category": "law",
-      "title": "nulla enim pariatur tempor sit",
-      "date": "18-08-2023",
-      "organizer": " Hanson Ford"
-    },
-    {
-      "id": 10,
-      "category": "philosophy",
-      "title": "laborum esse aliqua sit fugiat",
-      "date": "10-08-2023",
-      "organizer": " Lucinda Lawson"
-    },
-    {
-      "id": 20,
-      "category": "philosophy",
-      "title": "nostrud consectetur do consequat consequat",
-      "date": "08-08-2023",
-      "organizer": " Morgan Maynard"
-    },
-    {
-      "id": 30,
-      "category": "law",
-      "title": "sunt excepteur pariatur nisi nulla",
-      "date": "04-08-2023",
-      "organizer": " Pratt Lucas"
-    }
-  ]
+  {
+    "id": 0,
+    "category": "law",
+    "title": "fugiat reprehenderit eiusmod velit Lorem ",
+    "description": "exercitation anim cillum commodo proident pariatur mollit laboris est esse id reprehenderit",
+    "location": "526 Liberty Avenue, Riceville, Burundi",
+    "date": "19-08-2023",
+    "time": "11:00",
+    "organizer": "Dillard Patterson"
+  },
+  {
+    "id": 10,
+    "category": "philology",
+    "title": "voluptate qui mollit incididunt duis ",
+    "description": "sint laborum dolor veniam labore cupidatat cupidatat magna nulla sit magna nostrud",
+    "location": "254 Hanson Place, Grimsley, Sudan",
+    "date": "29-07-2023",
+    "time": "18:00",
+    "organizer": "Imogene Watson"
+  },
+  {
+    "id": 20,
+    "category": "philology",
+    "title": "voluptate mollit amet voluptate nulla ",
+    "description": "aute nostrud duis exercitation fugiat sunt ipsum est sunt consectetur dolor laboris",
+    "location": "498 Brighton Court, Austinburg, Pakistan",
+    "date": "15-08-2023",
+    "time": "17:00",
+    "organizer": "Hamilton Smith"
+  },
+  {
+    "id": 30,
+    "category": "philosophy",
+    "title": "cupidatat sunt ullamco aliquip ullamco ",
+    "description": "ut aliquip non occaecat ad dolor exercitation eiusmod officia est enim magna",
+    "location": "341 Dunham Place, Nash, Germany",
+    "date": "06-08-2023",
+    "time": "11:00",
+    "organizer": "Gallegos Park"
+  },
+  {
+    "id": 40,
+    "category": "philosophy",
+    "title": "aliquip magna fugiat amet esse ",
+    "description": "mollit in ipsum velit eu anim sunt aliqua cupidatat ea officia in",
+    "location": "408 Fillmore Avenue, Emerald, Bangladesh",
+    "date": "01-08-2023",
+    "time": "11:00",
+    "organizer": "Strickland Paul"
+  },
+  {
+    "id": 50,
+    "category": "philology",
+    "title": "eu deserunt deserunt deserunt ad ",
+    "description": "nisi esse sint magna ullamco nostrud fugiat elit laborum enim laborum tempor",
+    "location": "143 Rost Place, Calvary, Portugal",
+    "date": "14-08-2023",
+    "time": "11:00",
+    "organizer": "Kristi Moody"
+  },
+  {
+    "id": 60,
+    "category": "law",
+    "title": "culpa irure laborum aliquip do ",
+    "description": "minim ex elit esse qui exercitation et ut sint aute dolore anim",
+    "location": "280 Lott Place, Healy, United Kingdom",
+    "date": "10-08-2023",
+    "time": "17:00",
+    "organizer": "Irene Rogers"
+  },
+  {
+    "id": 70,
+    "category": "law",
+    "title": "aute irure dolore deserunt occaecat ",
+    "description": "pariatur eiusmod nulla velit anim mollit mollit velit nulla aliqua reprehenderit anim",
+    "location": "820 Kiely Place, Blairstown, France, Metropolitan",
+    "date": "13-08-2023",
+    "time": "18:00",
+    "organizer": "Haney Bauer"
+  },
+  {
+    "id": 80,
+    "category": "law",
+    "title": "labore ullamco cillum laboris magna ",
+    "description": "ex duis aliqua do elit cupidatat labore deserunt culpa reprehenderit consectetur occaecat",
+    "location": "211 Landis Court, Snowville, Sierra Leone",
+    "date": "26-07-2023",
+    "time": "17:00",
+    "organizer": "Valdez Reeves"
+  },
+  {
+    "id": 90,
+    "category": "law",
+    "title": "cupidatat qui sit anim amet ",
+    "description": "ipsum pariatur eu officia adipisicing Lorem dolor nulla veniam enim velit labore",
+    "location": "202 Coffey Street, Freeburn, Belgium",
+    "date": "28-07-2023",
+    "time": "17:00",
+    "organizer": "Jennifer Witt"
+  },
+  {
+    "id": 100,
+    "category": "philosophy",
+    "title": "consectetur tempor nisi magna sit ",
+    "description": "quis mollit sit magna reprehenderit ullamco labore ex eu velit eiusmod dolor",
+    "location": "315 Trucklemans Lane, Sunwest, Togo",
+    "date": "06-08-2023",
+    "time": "11:00",
+    "organizer": "Bettie Lamb"
+  },
+  {
+    "id": 110,
+    "category": "law",
+    "title": "aliqua voluptate consectetur magna nisi ",
+    "description": "consequat non reprehenderit quis officia aliquip laborum nulla duis minim eu ex",
+    "location": "941 Lorimer Street, Sylvanite, Tonga",
+    "date": "02-08-2023",
+    "time": "18:00",
+    "organizer": "Leila Stephenson"
+  }
+]
